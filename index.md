@@ -5,11 +5,11 @@
 ### Projects
 
 [ASB 2020 Poster](/3D_Anthropometry.md)
-<img src="images/ASB2020_Style1.jpg"/>
+<img src="images/ASB2020_Style1.JPG"/>
 
 ---
 [ASB 2020 Poster](/3D_Anthropometry.md)
-<img src="images/ASB2020_Style2.jpg"/>
+<img src="images/ASB2020_Style2.JPG"/>
 
 ---
 [UROP 2016 Poster](/UROP_Poster)
@@ -22,15 +22,15 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/UROP_Presenting1.jpg"/>
+<img src="images/UROP_Presenting1.JPG"/>
 
 ---
 [Project 4 Title](http://example.com/)
-<img src="images/UROP_Presenting2.jpg"/>
+<img src="images/UROP_Presenting2.JPG"/>
 
 ---
 [Project 5 Title](http://example.com/)
-<img src="images/UROP_Presenting3.jpg"/>
+<img src="images/UROP_Presenting3.JPG"/>
 
 ---
 
