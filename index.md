@@ -17,7 +17,8 @@
 
 ---
 [UROP 2016 Poster](/UROP_Poster)
-<img src="images/3D_Anthro_1.jpg"/>
+<img src="images/3D_Anthro_1.JPG"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
