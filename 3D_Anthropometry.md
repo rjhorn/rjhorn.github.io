@@ -1,6 +1,6 @@
 ## 3D Anthropometry for Patients With High Body Mass/ project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Hello!** I'm a research scientist with a background in biomechanics and neuromotor control. As a biomechanist, I strive to apply my scientific curiosity and data-driven approach to practical applications. My current interests include exploring wearable devices, biological signals, and biomechanical imaging. I enjoy expanding my biomechanical toolbox through learning new data collection techniques and research software. In my free time, I like to apply my creative energy towards music production, writing, and learning new things. I also love running, disc golfing, and playing games with friends.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
