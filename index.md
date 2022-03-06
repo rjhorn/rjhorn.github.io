@@ -1,46 +1,41 @@
-## Portfolio
+## Projects
 
 ---
+[//]: # (### Projects)
+[//]: # ([ASB 2020 Poster]&#40;/3D_Anthropometry.md&#41;)
+[//]: # (<img src="images/Tiles/tile_ASB2020.JPG"/>)
+[//]: # (---)
+[<img src="images/Tiles/tile_ASB2020.JPG"/>](/3D_Anthropometry.md)
 
-### Projects
+[<img src="images/Tiles/tile_entropy.JPG"/>](/3D_Anthropometry.md)
 
-[ASB 2020 Poster](/3D_Anthropometry.md)
-<img src="images/ASB2020_Style1.JPG"/>
+[<img src="images/Tiles/tile_FaSST.JPG"/>](/3D_Anthropometry.md)
 
----
-[ASB 2020 Poster](/3D_Anthropometry.md)
-<img src="images/ASB2020_Style2.JPG"/>
+[<img src="images/Tiles/tile_kine_7204.JPG"/>](/3D_Anthropometry.md)
 
----
-[UROP 2016 Poster](/UROP_Poster)
-<img src="images/UROP_Poster_2016.png"/>
+[<img src="images/Tiles/tile_MoCap_TA.PNG"/>](/3D_Anthropometry.md)
 
----
-[UROP 2016 Poster](/UROP_Poster)
-<img src="images/3D_Anthro_1.JPG"/>
+[<img src="images/Tiles/tile_NBD2020.JPG"/>](/3D_Anthropometry.md)
+
+[<img src="images/Tiles/tile_ROC.JPG"/>](/3D_Anthropometry.md)
+
+[<img src="images/Tiles/tile_thresholds.JPG"/>](/3D_Anthropometry.md)
+
+[<img src="images/Tiles/tile_UROP.PNG"/>](/3D_Anthropometry.md)
 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/UROP_Presenting1.JPG"/>
+[//]: # (### More Projects)
 
----
-[Project 4 Title](http://example.com/)
-<img src="images/UROP_Presenting2.JPG"/>
+[//]: # ()
+[//]: # (- [Project 1 Title]&#40;http://example.com/&#41;)
 
----
-[Project 5 Title](http://example.com/)
-<img src="images/UROP_Presenting3.JPG"/>
+[//]: # (- [Project 2 Title]&#40;http://example.com/&#41;)
 
----
+[//]: # (- [Project 3 Title]&#40;http://example.com/&#41;)
 
-### More Projects
+[//]: # (- [Project 4 Title]&#40;http://example.com/&#41;)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[//]: # (- [Project 5 Title]&#40;http://example.com/&#41;)
 
 ---
 
