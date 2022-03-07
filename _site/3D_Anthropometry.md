@@ -1,31 +1,9 @@
 ## 3D Anthropometry for Patients With High Body Mass
 
-**Hello!** I'm a research scientist with a background in biomechanics and neuromotor control. As a biomechanist, I strive to apply my scientific curiosity and data-driven approach to practical applications. My current interests include exploring wearable devices, biological signals, and biomechanical imaging. I enjoy expanding my biomechanical toolbox through learning new data collection techniques and research software. In my free time, I like to apply my creative energy towards music production, writing, and learning new things. I also love running, disc golfing, and playing games with friends.
+While working as an undergraduate researcher in the [Biosciences Group](https://www.umtri.umich.edu/research/groups/biosciences/) at the University of Michigan Transportation Research Institute, I contributed to a project assessing the three-dimensional anthropometry of patients with high body mass. The project aimed to develop a database quantifying the body shape of high body mass patients in functional positions relevant for medical devices. I assisted with literature review, subject data collections using full-body laser scanning and traditional anthropometry methods, and anatomical landmark extraction in Meshlab software. I presented my findings at the Undergraduate Research Opportunity Program symposium and contributed to a publication titled, [“Development of Three-Dimensional Anthropometry Methods for Patients with High Body Mass Index”](https://journals.sagepub.com/doi/abs/10.1177/1541931213601240?casa_token=L4RYitqmNIcAAAAA:FxNtQPb7yOTXrSigraf0_n9gm3UPBL_CFmVHZcFcim9ekqBcSlDslf2N6bjOT_P2-vLOuxIoeckT).
 
-### 1. I still need to add descriptions for each project page.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+[//]: # (<img src="pdf/UROP Poster Final Riley Horn copy.pdf"/>)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[<object data="pdf/UROP_poster.pdf" width="720" height="576" type='application/pdf'/>]([pdf/UROP_poster.pdf])
+---
