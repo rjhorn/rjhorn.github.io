@@ -5,23 +5,23 @@
 [//]: # ([ASB 2020 Poster]&#40;/3D_Anthropometry.md&#41;)
 [//]: # (<img src="images/Tiles/tile_ASB2020.JPG"/>)
 [//]: # (---)
-[<img src="images/Tiles/tile_ASB2020.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_ASB2020.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_entropy.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_entropy.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_FaSST.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_FaSST.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_kine_7204.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_kine_7204.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_MoCap_TA.PNG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_MoCap_TA.PNG"/>](/teaching_motion_capture.md)
 
-[<img src="images/Tiles/tile_NBD2020.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_NBD2020.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_ROC.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_ROC.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_thresholds.JPG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_thresholds.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_UROP.PNG"/>](/3D_Anthropometry.md)
+[<img src="images/Tiles/tile_UROP.PNG"/>](/3D_anthropometry.md)
 
 
 [//]: # (### More Projects)
