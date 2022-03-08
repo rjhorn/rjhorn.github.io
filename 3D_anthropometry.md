@@ -5,5 +5,5 @@ While working as an undergraduate researcher in the [Biosciences Group](https://
 
 [//]: # (<img src="pdf/UROP Poster Final Riley Horn copy.pdf"/>)
 
-[<object data="pdf/UROP_poster.pdf" width="720" height="576" type='application/pdf'/>]([pdf/UROP_poster.pdf])
+[<object data="pdf/UROP_poster.pdf" width="720" height="576" type='application/pdf'/>](pdf/UROP_poster.pdf)
 ---

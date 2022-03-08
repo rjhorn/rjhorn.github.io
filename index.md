@@ -5,17 +5,17 @@
 [//]: # ([ASB 2020 Poster]&#40;/3D_Anthropometry.md&#41;)
 [//]: # (<img src="images/Tiles/tile_ASB2020.JPG"/>)
 [//]: # (---)
-[<img src="images/Tiles/tile_ASB2020.JPG"/>](/404.md)
+[<img src="images/Tiles/tile_ASB2020.JPG"/>](/ASB_2020.md)
 
 [<img src="images/Tiles/tile_entropy.JPG"/>](/404.md)
 
-[<img src="images/Tiles/tile_FaSST.JPG"/>](/404.md)
+[<img src="images/Tiles/tile_FaSST.JPG"/>](/FaSST_project.md)
 
 [<img src="images/Tiles/tile_kine_7204.JPG"/>](/404.md)
 
 [<img src="images/Tiles/tile_MoCap_TA.PNG"/>](/teaching_motion_capture.md)
 
-[<img src="images/Tiles/tile_NBD2020.JPG"/>](/404.md)
+[<img src="images/Tiles/tile_NBD2020.JPG"/>](/NBD_2020.md)
 
 [<img src="images/Tiles/tile_ROC.JPG"/>](/404.md)
 
