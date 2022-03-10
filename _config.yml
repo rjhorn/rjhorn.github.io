@@ -2,9 +2,12 @@ title: Riley Horn # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
 logo: "images/Profile_Images/Riley_Portrait_Circle.PNG"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I’m a research scientist with a background in biomechanics and neuromotor control.
-  I enjoy expanding my biomechanical toolbox through learning new data collection techniques and research software.
-  I also love music, disc golf, and running.
+  <br>
+  <b>Hello!</b> I'm a research scientist with a background in biomechanics and neuromotor control. 
+  As a biomechanist, I enjoy expanding my biomechanical toolbox through learning new data 
+  collection techniques and research software. I am currently interested in exploring research 
+  in wearable devices, biological signals, and biomechanical imaging. In my free time, I enjoy 
+  music, disc golf, and running.
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
@@ -13,3 +16,6 @@ google_analytics: G-4TRZR1YCLX #your Google Analytics tracking ID here (e.g. UA-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+github:
+  is_project_page: true
