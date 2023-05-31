@@ -1,8 +1,21 @@
-## Projects
+**Hello!** I'm a research scientist with a background in 
+kinesiology and biomechanics. I enjoy expanding my 
+research toolbox through learning new data collection 
+techniques and research software. I am currently interested 
+in sports performance and injury prevention, wearable devices,
+and biomechanical imaging. 
 
----
+I have three years of experience working as a 
+clinical researcher. As a research associate at the 
+Stone Research Foundation, I contribute to research 
+with the goal to improve orthopaedic surgery techniques 
+and outcomes. As a [clinical research assistant](https://rjhorn.github.io/FaSST_project.html)
+in the ECU Human Movement and Analysis Lab, I contributed 
+to physical therapy research in fall prevention for 
+people with balance disorders. You can read about my
+[thesis in postural control and somatosensation here](https://rjhorn.github.io/thesis_aim1.html). 
+Or you can check out my research posters about [tactile somatosensation](https://rjhorn.github.io/ASB_2020.html) or [3D anthropometry](https://rjhorn.github.io/3D_anthropometry.html). Also check out the slides below.
 
-I have two years of experience as a [clinical graduate researcher](https://rjhorn.github.io/FaSST_project.html) and hope to contribute to meaningful research in the field of health science. I studied Biomechanics & Motor Control at East Carolina University for graduate school and studied Movement Science at the University of Michigan in my undergraduate program. You can read about my [master's thesis here](https://rjhorn.github.io/thesis_aim1.html). Or you can check out my research posters about [tactile somatosensation](https://rjhorn.github.io/ASB_2020.html) or [3D anthropometry](https://rjhorn.github.io/3D_anthropometry.html). Also check out the slides below.
 
 [//]: # (### Projects)
 [//]: # ([ASB 2020 Poster]&#40;/3D_Anthropometry.md&#41;)

@@ -3,11 +3,12 @@ title: Riley Horn # your name (or website title) here
 logo: "images/Profile_Images/Riley_Portrait_Circle.PNG"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <b>Hello!</b> I'm a research scientist with a background in biomechanics and motor control. 
-  As a biomechanist, I enjoy expanding my research toolbox through learning new data 
-  collection techniques and research software. I am currently interested in exploring research 
-  in sports performance and injury prevention, wearable devices, and biomechanical imaging. In my free time, I enjoy 
-  music, disc golf, and running.
+  I'm a clinical researcher living in San Francisco. 
+  My interests began with a fascination to better understand human movement and 
+  it's application to movement disorders and sports performance. I am excited 
+  about exploring new tools and technologies to contribute to meaningful 
+  research in health science. I also am a lifelong runner, an amateur 
+  sound engineer, and a wannabe sci-fi novelist.
 #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
