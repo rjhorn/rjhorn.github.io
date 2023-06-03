@@ -14,13 +14,19 @@ in the ECU Human Movement and Analysis Lab, I contributed
 to physical therapy research in fall prevention for 
 people with balance disorders. You can read about my
 [thesis in postural control and somatosensation here](https://rjhorn.github.io/thesis_aim1.html). 
-Or you can check out my research posters about [tactile somatosensation](https://rjhorn.github.io/ASB_2020.html) or [3D anthropometry](https://rjhorn.github.io/3D_anthropometry.html). Also check out the slides below.
+Or you can check out my research posters about [tactile somatosensation](https://rjhorn.github.io/ASB_2020.html) 
+or [3D anthropometry](https://rjhorn.github.io/3D_anthropometry.html). Also check out the slides below.
+
+
 
 
 [//]: # (### Projects)
 [//]: # ([ASB 2020 Poster]&#40;/3D_Anthropometry.md&#41;)
 [//]: # (<img src="images/Tiles/tile_ASB2020.JPG"/>)
 [//]: # (---)
+
+[<img src="images/Tiles/tile_SRF_2.JPG"/>](/StoneResearchFoundation.md)
+
 [<img src="images/Tiles/tile_ASB2020.JPG"/>](/ASB_2020.md)
 
 [<img src="images/Tiles/tile_entropy.JPG"/>](/nonlinear_analysis.md)
