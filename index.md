@@ -1,22 +1,21 @@
 **Hello!** I'm a research scientist with a background in 
 kinesiology and biomechanics. I enjoy expanding my 
 research toolbox through learning new data collection 
-techniques and research software. I am currently interested 
+techniques and research software. I am interested in a range of
+exciting new technology in the field of movement science, including
+wearable devices, biomedical imaging, and 
 in sports performance and injury prevention, wearable devices,
 and biomechanical imaging. 
 
 I have three years of experience working as a 
 clinical researcher. As a research associate at the 
-Stone Research Foundation, I contribute to research 
-with the goal to improve orthopaedic surgery techniques 
+Stone Research Foundation, I contribute to orthobiologic 
+research with the goal to improve orthopedic surgery techniques 
 and outcomes. As a [clinical research assistant](https://rjhorn.github.io/FaSST_project.html)
 in the ECU Human Movement and Analysis Lab, I contributed 
-to physical therapy research in fall prevention for 
-people with balance disorders. You can read about my
-[thesis in postural control and somatosensation here](https://rjhorn.github.io/thesis_aim1.html). 
-Or you can check out my research posters about [tactile somatosensation](https://rjhorn.github.io/ASB_2020.html) 
-or [3D anthropometry](https://rjhorn.github.io/3D_anthropometry.html). Also check out the slides below.
-
+to physical therapy research in [fall prevention for 
+people with balance disorders](https://rjhorn.github.io/ASB_2020.html).
+Check out more of my projects in the slides below.
 
 
 
