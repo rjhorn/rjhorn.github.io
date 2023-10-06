@@ -1,13 +1,13 @@
-**Hello!** I'm a research scientist with a background in 
-kinesiology and biomechanics. I enjoy expanding my 
-research toolbox through learning new data collection 
-techniques and research software. I am interested in a range of
-exciting new technology in the field of movement science, including
-wearable devices, biomedical imaging, and 
-in sports performance and injury prevention, wearable devices,
-and biomechanical imaging. 
+**Hello!** I am a research scientist specializing in kinesiology 
+and biomechanics. I am passionate about expanding my research toolbox
+by exploring new data collection techniques and research software. 
+My interests lie at the exciting intersection of movement science 
+and technology, where I am keen to explore opportunities in wearable
+devices, biomedical imaging, and physiological signal processing, 
+and their applications towards understanding movement disorders and
+enhancing human performance.
 
-I have three years of experience working as a 
+I have three years of experience managing projects as a 
 clinical researcher. As a research associate at the 
 Stone Research Foundation, I contribute to orthobiologic 
 research with the goal to improve orthopedic surgery techniques 
