@@ -40,7 +40,7 @@ Check out more of my projects in the slides below.
 
 [//]: # ([<img src="images/Tiles/tile_ROC.JPG"/>]&#40;/404.md&#41;)
 
-[<img src="images/Tiles/tile_thresholds.JPG"/>](/thesis_aim1.md)
+[//]: # ([<img src="images/Tiles/tile_thresholds.JPG"/>]&#40;/thesis_aim1.md&#41;)
 
 [<img src="images/Tiles/tile_UROP.PNG"/>](/3D_anthropometry.md)
 
